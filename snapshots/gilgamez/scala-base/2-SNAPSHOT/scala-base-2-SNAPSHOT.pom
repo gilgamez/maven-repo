@@ -20,14 +20,15 @@
     </scm>
     <distributionManagement>
         <snapshotRepository>
-            <id>local-snapshots</id>
-            <name>local-snapshots</name>
-            <url>file:repository</url>
+            <id>snapshots</id>
+            <name>Snapshots</name>
+            <url>http://github.com/gilgamez/maven-repo/raw/master/snapshots</url>
+            <uniqueVersion>false</uniqueVersion>
         </snapshotRepository>
         <repository>
-            <id>local-releases</id>
-            <name>local-releases</name>
-            <url>file:repository</url>
+            <id>releases</id>
+            <name>Releases</name>
+            <url>http://github.com/gilgamez/maven-repo/raw/master/releases</url>
         </repository>
     </distributionManagement>
 
