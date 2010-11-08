@@ -2,11 +2,11 @@
 <metadata>
   <groupId>gilgamez</groupId>
   <artifactId>scala-base</artifactId>
+  <version>3-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>2-SNAPSHOT</version>
-      <version>3-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20101108080317</lastUpdated>
   </versioning>
 </metadata>
